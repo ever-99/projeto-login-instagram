@@ -1,0 +1,1 @@
+Esse projeto foi realizado como uma forma de exercitar os conceitos e aplicações das linguagems HTML e Css.
